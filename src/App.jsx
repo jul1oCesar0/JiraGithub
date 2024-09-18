@@ -2,9 +2,10 @@
 function App() {
   return (
     <>
-    <h1 className="bg-black">
-      Hello world!
+    <h1 className="py-52">
+      Mi pagina principal
     </h1>
+
     </>
   );
 }
